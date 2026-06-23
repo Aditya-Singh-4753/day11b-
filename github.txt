@@ -9,3 +9,6 @@ git status
 git commit -m "First FIle added"
 git branch -M main
 git push -u origin main
+git log
+git log --oneline
+git show commit_id
