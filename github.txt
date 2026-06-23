@@ -1,24 +1,14 @@
 git init
-
 git status
 git config user.name "Aditya"
 git config user.email "adityasingh76073@gmail.com" 
-
 git remote add origin https://github.com/Aditya-Singh-4753/day11b-.git
 git config --list
-
 git add . 
 git status
 git commit -m "First FIle added"
 git branch -M main
 git push -u origin main
-
 git log
 git log --oneline
 git show commit_id
-git revert commit_id
-git rm filename
-git revert --continue
-
-commit
-git push
