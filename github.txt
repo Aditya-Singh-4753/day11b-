@@ -4,7 +4,7 @@ git config user.name "Aditya"
 git config user.email "adityasingh76073@gmail.com" 
 git remote add origin https://github.com/Aditya-Singh-4753/day11b-.git
 git config --list
-git add .
+git add . 
 git status
 git commit -m "First FIle added"
 git branch -M main
